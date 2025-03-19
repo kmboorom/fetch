@@ -1,0 +1,3 @@
+ - invalid json
+ - dupes in the users table
+ - 
